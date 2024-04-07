@@ -16,3 +16,6 @@
    * ##### LinePay、綠界支付API串接付款
    * ##### nodemailer寄送付款完成確認信
    * ##### 建立票券QRCode
+ 
+### 使用方式
+##### 將Govent.sql匯入資料庫，前端及後端使用npm -f install、npm run dev啟動伺服器就可使用了
